@@ -1,0 +1,50 @@
+body {
+	background-color: black;
+	width: auto;
+	height: auto;
+}
+
+
+#granim-canvas
+{
+	width: 100%;
+	height: auto;
+  padding: 0px;
+  margin: 0px;
+  position:absolute;
+}
+
+
+#scene {
+	width: auto;
+	height: auto;
+	padding:0px;
+	margin: 0px;
+	position:absolute;
+}
+
+.title {
+	position:absolute;
+	margin-top: 200px;
+	margin-left: 50%;
+	padding-left: 100px;
+}
+
+#h1 {
+	font-size: 72px;
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#h2 {
+	font-size: 32px;
+    font-family: 'Abril Fatface', cursive;
+    color: #dff7f8;
+    margin-top: -14px;
+    text-align: right;
+}
+
+img {
+    height: 100%;
+    width:100%;
+}
